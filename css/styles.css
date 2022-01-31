@@ -1,0 +1,91 @@
+
+       body{
+        position: relative;
+        margin-top: 0px;
+        background-color: rgb(255, 255, 255);
+        align-content: center;
+        
+        
+    }
+   
+
+    
+    hr{
+        background-color: rgb(255, 255, 255);
+        height: 0px;
+        border-style: dotted;
+        border-color: gray;
+        width: 5%;
+        border-top-width: 0px;
+        border-bottom-width: 0px;
+        border-right-width: 0px;
+        border-left-width: 0px;
+
+
+    }
+    .somiya{
+        color: #66BFBF
+        ;
+        font-weight:bolder;
+        font-size: 30px;
+        
+    
+    
+    }
+    h2{
+        color:#66BFBF;
+        font-size: 30px;
+    }
+    table{
+        font-size: 20px;
+    }
+    li{
+        font-size: 20px;
+        align-content: center;
+        margin: 0px;
+        margin-left: 0px;
+    }
+    .anjela{
+        border-radius: 50%;
+        width:140px;
+        height: 150px;
+        margin-top: 10px;
+       
+    }
+    .CEO{
+        margin-top: 10px;
+    
+    }
+    .hrceo{
+          margin-right:0px;
+    }
+    .books{
+        float:left;
+        
+    }
+    .imgbooks{
+        width: 140px;
+        margin-right:600px;
+    }
+    .imgbooks1{
+        width: 140px;
+        margin-left:600px;
+    }
+    .graphics{
+        float:right;
+    }
+    .contact{
+        height: 80px;
+    }
+    h3{
+        color:#11999E
+
+    }
+    .last{
+        background-color: #66BFBF
+        ;
+        height: 100px;
+    }
+
+    
+    
